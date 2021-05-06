@@ -2,15 +2,15 @@
 
 _Estudiante **Analista de Sistemas** en el Instituto ORT._
 
-### ✉️ pyke.jn@gmail.com
-### 🔨 [Linkedin](https://www.linkedin.com/in/javierpyke/)
+* ✉️ pyke.jn@gmail.com
+* 🔨 [Linkedin](https://www.linkedin.com/in/javierpyke/)
 
 ## Proyectos principales 🚀
 
-* [Javier Quiz](https://github.com/javierpyke/blackbox-vision-challenge) ❓
+### [Javier Quiz](https://github.com/javierpyke/blackbox-vision-challenge) ❓
 _Aplicacion de preguntas y respuestas hecha en React con ChakraUI que obtiene información desde una API._
 
-* [App Clima](https://github.com/javierpyke/app-clima) ☀️
+### [App Clima](https://github.com/javierpyke/app-clima) ☀️
 _Aplicacion que muestra climas de ciudades hecha en React con Sass que obtiene información desde una AP.I_
 
 ## Cursos 📋
