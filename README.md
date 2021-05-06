@@ -1,4 +1,4 @@
-# _Javier Pyke_ 😁
+# _Javier Pyke_ 
 
 _Estudiante **Analista de Sistemas** en el Instituto ORT._
 
