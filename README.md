@@ -20,7 +20,7 @@ _Aplicacion que muestra climas de ciudades hecha en React con Sass que obtiene i
 * [Python Data Analytics](https://eant.tech/escuela-de-ciencias-de-datos/programas/python-data-analytics) en EANT.
 
 ### Conocimientos ⚙️
-![](https://img.shields.io/badge/%3E-React-blue) ![](https://img.shields.io/badge/%3E-NodeJs-succes) ![](https://img.shields.io/badge/%3E-JavaScript-yellow) ![](https://img.shields.io/badge/%3E-HTML-important) ![](https://img.shields.io/badge/%3E-CSS-blue) ![](https://img.shields.io/badge/%3E-Python-blue) ![](https://img.shields.io/badge/%3E-Pandas-9cf)
+![](https://img.shields.io/badge/%3E-React-blue) ![](https://img.shields.io/badge/%3E-NodeJs-succes) ![](https://img.shields.io/badge/%3E-JavaScript-yellow) ![](https://img.shields.io/badge/%3E-HTML-important) ![](https://img.shields.io/badge/%3E-CSS-blue) ![](https://img.shields.io/badge/%3E-Sass-ff69ba) ![](https://img.shields.io/badge/%3E-Python-blue) ![](https://img.shields.io/badge/%3E-Pandas-9cf)
 
 
 ---
