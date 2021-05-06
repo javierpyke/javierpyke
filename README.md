@@ -1,16 +1,27 @@
-### Hi there 👋
+# _Javier Pyke_ 😁
 
-<!--
-**javierpyke/javierpyke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Estudiante **Analista de Sistemas** en el Instituto ORT._
 
-Here are some ideas to get you started:
+### ✉️ pyke.jn@gmail.com
+### 🔨 [Linkedin](https://www.linkedin.com/in/javierpyke/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos principales 🚀
+
+* [Javier Quiz](https://github.com/javierpyke/blackbox-vision-challenge) ❓
+_Aplicacion de preguntas y respuestas hecha en React con ChakraUI que obtiene información desde una API._
+
+* [App Clima](https://github.com/javierpyke/app-clima) ☀️
+_Aplicacion que muestra climas de ciudades hecha en React con Sass que obtiene información desde una AP.I_
+
+## Cursos 📋
+
+* [Programación Web Full Stack](https://www.itmaster.com.ar/carreras/programador-web) en ITMaster.
+* [Programación en Python](https://www.itmaster.com.ar/cursos/curso-python) en ITMaster.
+* [Python Data Analytics](https://eant.tech/escuela-de-ciencias-de-datos/programas/python-data-analytics) en EANT.
+
+### Conocimientos ⚙️
+![](https://img.shields.io/badge/%3E-React-blue) ![](https://img.shields.io/badge/%3E-NodeJs-succes) ![](https://img.shields.io/badge/%3E-JavaScript-yellow) ![](https://img.shields.io/badge/%3E-HTML-important) ![](https://img.shields.io/badge/%3E-CSS-blue) ![](https://img.shields.io/badge/%3E-Python-blue) ![](https://img.shields.io/badge/%3E-Pandas-9cf)
+
+
+---
+Gracias [Villanuevand](https://github.com/Villanuevand) por esta genial plantilla!
