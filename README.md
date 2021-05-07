@@ -8,7 +8,7 @@ _Estudiante **Analista de Sistemas** en el Instituto ORT._
 ## Proyectos principales 🚀
 
 ### [Javier Quiz](https://github.com/javierpyke/blackbox-vision-challenge) ❓
-_Aplicacion de preguntas y respuestas hecha en **React** con ![](https://img.shields.io/badge/%3E-Chakra%20UI-9cf) que obtiene información desde una API._
+_Aplicacion de preguntas y respuestas hecha en <pre>React<pre> con ![](https://img.shields.io/badge/%3E-Chakra%20UI-9cf) que obtiene información desde una API._
 
 ### [App Clima](https://github.com/javierpyke/app-clima) ☀️
 _Aplicacion que muestra climas de ciudades hecha en React con Sass que obtiene información desde una API._
