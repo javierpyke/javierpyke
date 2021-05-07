@@ -14,7 +14,7 @@ _Aplicacion de preguntas y respuestas hecha en React con ChakraUI que obtiene in
 _Aplicacion que muestra climas de ciudades hecha en React con Sass que obtiene información desde una API._
 
 ### [Maquetación Web](https://github.com/javierpyke/axlot-challenger) 📐
-_Desafío de maquetación hecho con HTML y CSS_
+_Desafío de maquetación hecho con HTML y CSS._
 
 ## Cursos 📋
 
