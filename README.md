@@ -7,6 +7,9 @@ _Estudiante **Analista de Sistemas** en el Instituto ORT._
 
 ## Proyectos principales 🚀
 
+### [TATETI](https://github.com/javierpyke/Tateti_Autonomo) ⭕⭕⭕
+_Juego de TATETI desarrollado en ***Python***, con 3 niveles de dificultad._
+
 ### [Javier Quiz](https://github.com/javierpyke/blackbox-vision-challenge) ❓
 _Aplicacion de preguntas y respuestas hecha en ***React*** con ***Chakra UI*** que obtiene información desde una API._
 
