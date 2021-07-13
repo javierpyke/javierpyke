@@ -7,16 +7,16 @@ _Estudiante **Analista de Sistemas** en el Instituto ORT._
 
 ## Proyectos principales 🚀
 
-### [TATETI](https://github.com/javierpyke/Tateti_Autonomo) ⭕⭕⭕
+### [TATETI](https://github.com/javierpyke/Tateti_Autonomo) ⭕⭕⭕ ![](https://img.shields.io/badge/%3E-Python-blue)
 _Juego de TATETI desarrollado en ***Python***, con 3 niveles de dificultad._
 
-### [Javier Quiz](https://github.com/javierpyke/blackbox-vision-challenge) ❓
+### [Javier Quiz](https://github.com/javierpyke/blackbox-vision-challenge) ❓ ![](https://img.shields.io/badge/%3E-React-blue)
 _Aplicacion de preguntas y respuestas, hecha en ***React*** con ***Chakra UI*** que obtiene información desde una API._
 
-### [App Clima](https://github.com/javierpyke/app-clima) ☀️
+### [App Clima](https://github.com/javierpyke/app-clima) ☀️ ![](https://img.shields.io/badge/%3E-React-blue) ![](https://img.shields.io/badge/%3E-Sass-ff69ba)
 _Aplicacion que muestra climas de ciudades, hecha en ***React*** con ***Sass*** que obtiene información desde una API._
 
-### [Maquetación Web](https://github.com/javierpyke/axlot-challenger) 📐
+### [Maquetación Web](https://github.com/javierpyke/axlot-challenger) 📐 ![](https://img.shields.io/badge/%3E-HTML-important) ![](https://img.shields.io/badge/%3E-CSS-blue)
 _Desafío de maquetación hecho con ***HTML*** y ***CSS***._
 
 ## Cursos 📋
