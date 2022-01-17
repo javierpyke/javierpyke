@@ -7,6 +7,10 @@ _Estudiante **Analista de Sistemas** en el Instituto ORT._
 
 ## Proyectos principales 🚀
 
+### [FORO](https://github.com/javierpyke/Foro-TP) :pencil2: ![](https://img.shields.io/badge/%3E-.NET-green)
+_Foro desarrollado en conjunto para Trabajo Práctico. Desarrollado en C# utilizando ASP.NET Core, Entity framework e Identity Entity framework ._
+
+
 ### [TATETI](https://github.com/javierpyke/Tateti_Autonomo) ⭕⭕⭕ ![](https://img.shields.io/badge/%3E-Python-blue)
 _Juego de TATETI desarrollado en ***Python***, con 3 niveles de dificultad._
 
