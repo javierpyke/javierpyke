@@ -7,7 +7,7 @@ _Estudiante **Analista de Sistemas** en el Instituto ORT._
 
 ## Proyectos principales 🚀
 
-### [Cafetería](https://github.com/javierpyke/cafeteria) :pencil2: ![](https://img.shields.io/badge/%3E-Vue-green)
+### [Cafetería](https://github.com/javierpyke/cafeteria) :coffee: ![](https://img.shields.io/badge/%3E-Vue-green)
 _Proyecto final hecho en Vue para la materia Taller de Programación 2. El cual seguramente tiene errores pero aprendí mucho! ._
 
 
