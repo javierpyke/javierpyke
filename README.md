@@ -7,6 +7,10 @@ _Estudiante **Analista de Sistemas** en el Instituto ORT._
 
 ## Proyectos principales 🚀
 
+### [Cafetería](https://github.com/javierpyke/cafeteria) :pencil2: ![](https://img.shields.io/badge/%3E-Vue-green)
+_Proyecto final hecho en Vue para la materia Taller de Programación 2. El cual seguramente tiene errores pero aprendí mucho! ._
+
+
 ### [FORO](https://github.com/javierpyke/Foro-TP) :pencil2: ![](https://img.shields.io/badge/%3E-.NET-green)
 _Foro desarrollado en conjunto para Trabajo Práctico. Desarrollado en C# utilizando ASP.NET Core, Entity framework e Identity Entity framework ._
 
