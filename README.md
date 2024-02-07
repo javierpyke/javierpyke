@@ -11,7 +11,7 @@ _Estudiante **Analista de Sistemas** en el Instituto ORT._
 _Proyecto final hecho en Vue para la materia Programación 2. Aplicación para tomar pedidos en una cafetería, el cual seguramente tiene errores pero aprendí mucho! ._
 
 
-### [Cafetería](https://github.com/javierpyke/mapeoOficinas) 🖥️ ![](https://img.shields.io/badge/%3E-Node-green)
+### [Mapeo de Oficinas](https://github.com/javierpyke/mapeoOficinas) 🖥️ ![](https://img.shields.io/badge/%3E-Node-green)
 _Proyecto final hecho en Vue para la materia Programación 2. Sistema que lleve el control de los centros de toma. El cual tiene registro de los equipos que posee cada puesto del centro._
 
 
